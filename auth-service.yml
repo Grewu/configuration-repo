@@ -10,7 +10,7 @@ jwt:
 keycloak:
    realm: bisky-music
    adminClientId: admin-cli
-   adminClientSecret: Ep6uxiU983scb4IqGeUIrqOzr4pg2UhM
+   adminClientSecret: 0rlkY6VuNUgjyHaombkjdDliQbBwxktQ
    client: authenticationClientId
    urls:
        auth: http://localhost:9082
